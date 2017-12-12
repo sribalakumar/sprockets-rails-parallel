@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'sprockets', "~>2.2.0"
   s.add_dependency 'ffi-rzmq', "~>0.9.3"
-  s.add_dependency 'sprockets-rails', "~0.0.1"
+  s.add_dependency 'sprockets-rails', "~>0.0.1"
 
   s.authors = ["Harry Brundage"]
   s.email   = "harry.brundage@jadedpixel.com"
