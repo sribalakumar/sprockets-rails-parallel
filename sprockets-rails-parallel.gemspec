@@ -12,9 +12,9 @@ Gem::Specification.new do |s|
 
   s.requirements << 'libzmq ~>v2.2'
 
-  s.add_dependency 'sprockets', "~>2.2.2"
+  s.add_dependency 'sprockets', "~>2.2.0"
   s.add_dependency 'ffi-rzmq', "~>0.9.3"
-  s.add_dependency 'sprockets-rails', "~>1.0.0"
+  s.add_dependency 'sprockets-rails'
 
   s.authors = ["Harry Brundage"]
   s.email   = "harry.brundage@jadedpixel.com"
